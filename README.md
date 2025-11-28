@@ -60,7 +60,7 @@ Movie Data → Feature Engineering → Vectorization → Similarity Matrix → R
 ```bash
 streamlit run app.py
 ```
-Then open your browser at `http://localhost:8501`
+Then open your browser at `http://localhost:8502`
 
 ### Option 2: Jupyter Notebook
 ```bash
@@ -204,5 +204,6 @@ For any queries or suggestions, feel free to reach out:
 Give a ⭐ if you like this project and found it helpful!
 
 ---
+
 
 **Made with ❤️ and Python**
